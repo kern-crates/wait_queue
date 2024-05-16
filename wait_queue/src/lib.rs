@@ -2,7 +2,7 @@
 
 extern crate alloc;
 use alloc::collections::VecDeque;
-use spinbase::SpinRaw;
+use spinirq::SpinRaw;
 
 use taskctx::CtxRef;
 use run_queue::AxRunQueue;
