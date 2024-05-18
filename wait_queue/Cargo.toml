@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 taskctx = { git = "ssh://git@github.com/shilei-massclouds/taskctx.git" }
 run_queue = { git = "ssh://git@github.com/shilei-massclouds/run_queue.git" }
-spinirq = { git = "ssh://git@github.com/shilei-massclouds/spinirq.git" }
+spinbase = { git = "ssh://git@github.com/shilei-massclouds/spinbase.git" }
